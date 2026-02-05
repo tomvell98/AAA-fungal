@@ -1,0 +1,29 @@
+name: aaa-fungal
+channels:
+  - conda-forge
+  - bioconda
+  - pytorch
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - tqdm
+  - pyyaml
+  - numba
+  - biopython
+  - scikit-learn
+  - statsmodels
+  - scikit-bio
+  - umap-learn
+  - hdbscan
+  - datashader
+  - holoviews
+  - colorcet
+  - bokeh
+  - freesasa
+  - ncbi-datasets-cli
+  - pytorch
+
