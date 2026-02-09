@@ -3,6 +3,7 @@
 Scripts accompanying the manuscript "Exploring Fungal Lysine Synthesis: Evolution and Diversity of the Enzymes in the Alpha-Aminoadipate Pathway Across the Fungal Kingdom"
 
 This repository contains analysis scripts grouped in `methods/` and small configuration files in `config/`. 
+Large derived outputs (trees, distance matrices, embeddings, conservation/structure metrics, supplementary tables) are deposited on Zenodo (DOI: 10.5281/zenodo.18549321).
 
 ## Repository layout
 - `methods/` : scripts and templates for retrieval, phylogeny, conservation/structure, localization, and protein language model analyses
